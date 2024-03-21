@@ -1,0 +1,31 @@
+.restaurant-list {
+  margin-bottom: 20px;
+}
+
+.restaurant-list h2 {
+  margin-bottom: 10px;
+}
+
+.restaurant-list input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.restaurant-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.restaurant-list li {
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.restaurant-list li:hover {
+  background-color: #e0e0e0;
+}
